@@ -12,5 +12,4 @@ DONE
   TrainMultiTask
   TrainNdlNetwork
   TrainWithPreTrain
-  TrainLstm (baseline change)
-
+  TrainLstm
